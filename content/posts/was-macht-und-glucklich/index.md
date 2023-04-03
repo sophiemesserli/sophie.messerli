@@ -3,9 +3,17 @@ title = "Was macht und glücklich?"
 date = "2023-04-03"
 draft = false
 pinned = false
-description = "Ein neuer Mensch wird geboren, von ihm wird erwartet, dass er schnell laufen, sprechen und in der Schule rechnen und schreiben lernt. Ihm wird seit Tag eins eingetrichtert das Noten wichtig sind und der Weg zum Erfolg nur über einen guten Abschluss führt. Denn nur wer Erfolgreich ist verdient viel Geld und wird glücklich und zufrieden. Brauchen wir all das? Brauchen wir viel Geld um glücklich zu werden? Können wir nur durch einen hohen Einkommens Posten Zufriedenheit erlangen oder geht es auch anders?\n"
+description = "\n"
 +++
-# Wie wird Glück gemessen?
+{{<lead>}}
+
+Ein neuer Mensch wird geboren, von ihm wird erwartet, dass er schnell laufen, sprechen und in der Schule rechnen und schreiben lernt. Ihm wird seit Tag eins eingetrichtert das Noten wichtig sind und der Weg zum Erfolg nur über einen guten Abschluss führt. Denn nur wer Erfolgreich ist verdient viel Geld und wird glücklich und zufrieden. Brauchen wir all das? Brauchen wir viel Geld um glücklich zu werden? Können wir nur durch einen hohen Einkommens Posten Zufriedenheit erlangen oder geht es auch anders?
+
+{{</lead>}}
+
+
+
+## Wie wird Glück gemessen?
 
 In einem Interviewgespräch mit Dr. Reto Odermatt, Lehrbeauftragter der Wirtschaftswissenschaftlichen Fakultät WWZ, fanden wir Antworten auf diese Frage. 
 
