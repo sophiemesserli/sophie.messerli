@@ -3,6 +3,7 @@ title = "Was macht und glücklich?"
 date = "2023-04-03"
 draft = false
 pinned = false
+image = "kleeblatt.jpeg"
 description = "\n"
 +++
 {{<lead>}}
