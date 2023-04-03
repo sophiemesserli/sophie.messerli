@@ -4,7 +4,7 @@ date = "2023-04-03"
 draft = false
 pinned = false
 image = "kleeblatt.jpeg"
-description = "\n"
+description = "\nEine Reportage über unser Glück und die Zufriedenheit mit unserem Leben."
 +++
 {{<lead>}}
 
@@ -12,7 +12,8 @@ Ein neuer Mensch wird geboren, von ihm wird erwartet, dass er schnell laufen, sp
 
 {{</lead>}}
 
-
+\
+*Eine Reportage von Luis Flury und Sophie Messerli*
 
 ## Wie wird Glück gemessen?
 
