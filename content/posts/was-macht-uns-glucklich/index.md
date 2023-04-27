@@ -21,3 +21,49 @@ Unsere Welt fühlt sich normal an. Es scheint, als hätten wir schon immer so ge
 ## Das Problem der heutigen Zivilisation 
 
 Doch im Laufe der Zeit haben wir unsere eigene Welt erschaffen. Durch die Agrarrevolution wurden wir sesshaft und seit den industriellen Revolutionen wächst unser Wohlstand exponentiell. Plötzlich fanden wir uns in einer Welt wieder, in der wir nicht mehr ums Überleben kämpfen mussten. Trotzdem haben wir immer noch die gleichen Grundgefühle und Grundbedürfnisse wie unsere Vorfahren. Das ist ein Problem, denn heute haben wir Bedürfnisse, die nicht mehr zeitgemäss sind. Zum Beispiel ist es heute nicht überlebenswichtig, Anerkennung von Mitmenschen zu erhalten, aber wir leiden dennoch, wenn diese wegfallen. Das Bedürfnis nach sozialer Anerkennung beachten wir zwar, aber das gilt nicht für alle Bedürfnisse. Als wir noch Nomaden waren, war es zum Beispiel überlebenswichtig, unsere Umwelt zu kennen. Daher entwickelten wir das Bedürfnis, unsere Umgebung zu erkunden und zu erforschen. Heute ist dieses Bedürfnis überflüssig, weshalb wir es nicht ausreichend beachten. Somit leben wir heute in einer Welt, die nicht vollständig auf unsere Bedürfnisse angepasst ist.
+
+> "Geld ist wichtig um glücklich zu werden" ~ Reto Odermatt
+
+Geld sei wichtig für die Zufriedenheit und es könne glücklich machen, aber das Entscheidende am Geld sei nicht möglichst viel davon zu haben, sondern genug, um ein würdevolles Leben führen zu können, schildert Herr Odermatt. Ein Leben ohne ständige Schweissausbrüche, ohne die Angst, dass der Lohn nicht bis Ende des Monats ausreichen wird, ein Leben, in dem Geld nicht als wichtigster Faktor angesehen wird. Armut und finanzielle Unsicherheiten seien sehr starke Unzufriedenheitsfaktoren. Wenn man den ganzen Tag nur daran denken muss, wie man sein Geld verwalten soll, und wenn man ständig Angst vor Verlusten hat, führe dies über kurz oder lang zu grosser Unzufriedenheit.
+
+ Mehr Geld macht nur dann glücklicher, wenn es die finanziellen Unsicherheiten lindert, bei einem höheren Einkommensniveau hätte der einzelne Franken hingegen einen geringeren Einfluss auf die Zufriedenheit. 
+
+ Diese Sorglosigkeit kann aber auch Einfluss auf unsere Dankbarkeit nehmen. Wenn es selbstverständlich ist, dass man sich nicht ständig Gedanken über Investitionen machen muss, gerät oft die Wertschätzung in den Hintergrund.
+
+
+
+## Dankbarkeit und Wertschätzung
+
+Uns seien nicht immer alle Informationen präsent, ob Gefühle, Ängste, Aufgaben oder andere Informationen, die irgendwo in unserem Gehirn gespeichert sind. Indem wir uns immer wieder bewusst machen, was wir eigentlich haben, hilft es uns, mit Unsicherheit in Situationen wie in denen Stress oder Ängste grossen Einfluss haben, besser umgehen zu können. Dankbarkeit ist eine positive Gefühlserfahrung, welche jeder hin und wieder mal erfahren sollte. 
+
+ In Assuan, einer Stadt am Nil in Ägypten, wurden mir diese Tatsachen verdeutlich. In dieser Stadt hat es laut Wikipedia 1,87 Millionen Einwohner, die alle eng aneinander leben. Es gibt die Reichen, die Sorte Menschen, denen die Hotels gehören, grosse Passagier Schiffe besitzen oder Geschäftsführer eines anderweitigen Geschäftes oder Unternehmens sind. Diese Leute findet man kaum auf den Strassen, sie sitzen in ihren klimatisierten Häusern mit Strom und fliessendem Wasser. Diesen Leuten geht es aus finanzieller Sicht gut. Auf der anderen Seite jedoch, gibt es Kinder, Eltern und Grosseltern, welche diese Privilegien nicht besitzen. Sie kämpfen Tag für Tag um ihr Essen, ihr Trinken, ihren Schlafplatz und schlussendlich um ihr Überleben. Alle müssen mithelfen, ob klein, jung, alt, gross, dick oder dünn, jeder Liiere zählt. Die Menschen wirken erschöpft, sie sind müde und kraftlos, dass einzige was ihnen hilft, ist ihr Glaube, ihre Familien und ihre Freunde, die sich alle gegenseitig unterstützen, wo sie können. Diese Menschen zeigen mir erneut, wie dieser finanzielle Unterschied das glücklich Sein erschweren kann. Auf mich wirken diese Leute trotz allem keineswegs undankbar, im Gegenteil. Die ärmeren Leute in Assuan freuen sich über weitaus kleinere Dinge als wir es tun, Wertschätzung sei für sie sehr wichtig, verriet uns ein Händler auf der Strasse, und bekanntlich ist mit Wertschätzung auch Dankbarkeit verknüpft. 
+
+## Zufriedenheit am Arbeitsplatz
+
+Auch die Zufriedenheit am Arbeitsplatz nehme einen grossen Einfluss auf unsere Zufriedenheit, sagte uns Herr Odermatt. Es sei wichtig, dass man sich ernstgenommen fühlt und vom Arbeitsgeber wertgeschätzt wird. Es sei wichtig, dass man sich selbst bewusst ist, welchen Beitrag man mit seiner Arbeit leistet und wie welchen Wert man als Person für das Unternehmen, die Gemeinde oder für den Staat hat. Wenn man sich der eigenen Wichtigkeit am Arbeitsplatz bewusst ist, verbessere es deutlich die Zufriedenheit am Arbeitsplatz. 
+
+> «Zufriedenheit am Arbeitsplatz ist wichtiger als der Lohn» ~ Ueli Käser
+
+Von der Geschäftsleitung einer Stiftung zum Busfahrer, welcher täglich Berner von A bis Z führt, ob zur Arbeit oder zur Schule, genau diesen Weg beschritt Ueli Käser. Ein Familienvater, dem seine Zeit mit der Familie und die Zufriedenheit am Arbeitsplatz wichtiger waren als sein Lohn. In einem Restaurant mitten in der Stadt Bern verriet er uns, dass die Verantwortung als Geschäftsleitung sehr gross war und dass es ihm schwergefallen ist, abends von der Arbeit abzuschalten. Dieses Problem belastete ihn oft und er könne heute in seinem neuen Beruf viel besser damit umgehen, was einen positiven Einfluss auf seine Zufriedenheit hat.
+
+## Warum es nie genug sein wird
+
+In unserer heutigen Welt haben wir alles, was wir zum Überleben brauchen, doch es scheint, als wäre es immer noch nicht genug, um glücklich zu sein. Es scheint, als ob wir nur noch dieses eine Ziel erreichen müssten, um dann endlich glücklich zu sein. Aber nach Erreichen dieses Ziels fühlen wir uns vielleicht für einen kurzen Moment glücklich, doch dieses Glück nimmt schnell ab und wird durch eine innere Leere ersetzt. Um diese Leere zu verscheuchen, fokussieren wir uns nach kurzer Zeit erbittert auf ein neues Ziel. Doch dieses Streben nach Glück führt nicht zum Glück. Aber warum ist das so? 
+
+Wie schon erwähnt, entstand alles, was uns als Mensch ausmacht aus der Evolution, und aus evolutionärer Sicht ist es nicht hilfreich, durch Ziele Langzeitglück zu erreichen. Nehmen wir mal an, dass es in der Menschheitsgeschichte einmal einen Menschen gab, der durch eine glückliche Genmutation nach einem Erfolg keinen Drang nach weiteren Erfolgen spürte und einfach glücklich war. Doch dieser Mensch hätte wegen seines Glückszustandes einen kleineren Drang, sich um sein Überleben zu kümmern, und wäre dadurch wahrscheinlich ausgestorben. So sind wir heute nicht die Nachfahren von Menschen, die Langzeitglück durch Ziele erreichen, sondern von Menschen, die nach Erreichen eines Ziels keine Zeit mit Glücklichsein verschwenden, sondern erbittert dem nächsten Ziel hinterherhecheln.
+
+## Streben nach Glück
+
+Das Streben nach Glück macht uns nicht glücklich und wird uns im Gegenteil unglücklicher machen. Buddha, der Begründer des Buddhismus, behauptete, dass das Streben nach Glück die Wurzel allen Unglücks sei. Wenn wir nach Glück streben, haben wir Erwartungen und Vorstellungen darüber, was es braucht, um glücklich zu sein. Wir bemühen uns dann hartnäckig, diese Erwartungen und Vorstellungen vollständig zu erfüllen. Wenn sie jedoch nicht vollständig erfüllt werden, sind wir unglücklich. Das Problem besteht jedoch darin, dass diese Vorstellungen nie vollständig erfüllt werden können. Wenn wir sie erfüllen, merken wir, dass das Glück nicht dauerhaft anhält. Im Zustand des Strebens bemerken wir irrtümlicherweise, dass dies daran liegt, dass wir ein weiteres Ziel noch nicht erreicht haben, und werden wieder unglücklich. So sind wir ständig im Zustand des Strebens und rennen unglücklich dem nächsten Ziel hinterher.
+
+## Der Weg ist das Ziel
+
+Um glücklich zu werden, muss man den Zustand des Strebens hinter sich lassen und das Hier-und-Jetzt akzeptieren, genau so wie es ist. Man sollte Ziele so setzen, das der Weg dorthin einem Freude bereitet. Am wichtigsten ist, Freude am Tun zu entwickeln und nicht nur in den Zielen danach zu suchen.
+
+> «There is no road to happiness because happiness is the road. » ~ Buddha
+
+Jeder Mensch hat mit Sicherheit etwas, das er oder sie gut kann und mit voller Leidenschaft tut. Genau solche Dinge sollte man tun, denn im Zustand der Leidenschaft entsteht tausendmal mehr Glück als im Zustand des Strebens. Eine weitere Kunst, die zum Glück führt, ist es, sein Glück von nichts abhängig zu machen und trotzdem jeden Moment zu geniessen.
+
+## Tipp to go
+
+Dankbarkeit ist eine der wichtigsten Eigenschaften, um Glück zu erreichen. Sie hilft uns, das Hier und Jetzt so anzunehmen, wie es ist. Forscherinnen und Forscher haben herausgefunden, dass Dankbarkeit sogar trainiert werden kann. Eine der besten Methoden ist ein Dankbarkeitstagebuch. Jeden Abend nur fünf Minuten Zeit nehmen und drei Dinge aufschreiben, für die man dankbar ist, kann bereits einen großen Unterschied machen. Ich schreibe schon seit langem ein Dankbarkeitstagebuch und merke, dass es meinen Blick mehr auf das Positive im Leben lenkt.
