@@ -4,7 +4,7 @@ draft = false
 image = ""
 description = ""
 +++
-![](bildschirmfoto-2023-04-27-um-18.57.26.png)
+![](bildschirmfoto-2023-04-27-um-19.01.50.png)
 
 ## Sophie Messerli
 
