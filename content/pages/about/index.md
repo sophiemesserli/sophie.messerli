@@ -1,7 +1,7 @@
 +++
 title = "About me"
 draft = false
-image = ""
+image = "bildschirmfoto-2023-04-27-um-19.01.50.png"
 description = ""
 +++
 ![](bildschirmfoto-2023-04-27-um-19.01.50.png)
