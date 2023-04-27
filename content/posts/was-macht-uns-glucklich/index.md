@@ -4,6 +4,8 @@ date = "2023-04-27"
 draft = false
 pinned = false
 +++
+Reportage von Luis Flury und Sophie Messerli
+
 {{<lead>}}
 
 **Ein neuer Mensch wird geboren, von ihm wird erwartet, dass er schnell laufen, sprechen und in der Schule rechnen und schreiben lernt. Ihm wird ab Tag eins eingetrichtert, dass Noten wichtig sind und der Weg zum Erfolg nur über einen guten Abschluss führt. Denn nur wer erfolgreich ist, verdient viel Geld und wird glücklich und zufrieden. Doch: Brauchen wir all das? Brauchen wir viel Geld, um glücklich zu werden?** 
@@ -13,6 +15,8 @@ pinned = false
 ## Wie wird Glück gemessen?
 
 In einem Interviewgespräch mit Dr. Reto Odermatt, Lehrbeauftragter der Wirtschaftswissenschaftlichen Fakultät WWZ, fanden wir Antworten auf diese Frage. Er erklärte uns, dass die üblichste Variante, um Glück zu messen sei, die Menschen zu fragen: «Auf einer Skala von sehr unzufrieden bis sehr zufrieden, wie zufrieden insgesamt sind Sie mit Ihrem Leben?» Man überliesse die Frage den Menschen selbst, indem sie sich selbst einschätzen. Dabei sei aber die Validität ein wichtiger Aspekt. Wie verlässlich sind die Selbsteinschätzungen der Menschen? Diese «Messfehler» würden aber umgangen werden können, indem man weitere Aspekte dazu nimmt, wie zum Beispiel, ob die Menschen mehr oder weniger lachen, ob sie objektiv gemessen gesund sind oder ob sie einen tiefen Stresspegel haben. So könne ein Abgleich gemacht werden, ob die Aussagen aussagekräftig sind, erklärt Odermatt. 
+
+![](reto.jpg "Reto Odermatt, von wwz.unibas.ch")
 
 ## Glück braucht Gefühle
 
@@ -29,8 +33,6 @@ Geld sei wichtig für die Zufriedenheit und es könne glücklich machen, aber da
  Mehr Geld macht nur dann glücklicher, wenn es die finanziellen Unsicherheiten lindert, bei einem höheren Einkommensniveau hätte der einzelne Franken hingegen einen geringeren Einfluss auf die Zufriedenheit. 
 
  Diese Sorglosigkeit kann aber auch Einfluss auf unsere Dankbarkeit nehmen. Wenn es selbstverständlich ist, dass man sich nicht ständig Gedanken über Investitionen machen muss, gerät oft die Wertschätzung in den Hintergrund.
-
-
 
 ## Dankbarkeit und Wertschätzung
 
