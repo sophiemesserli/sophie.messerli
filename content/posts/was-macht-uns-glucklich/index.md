@@ -6,7 +6,7 @@ pinned = false
 image = "blume2.jpg"
 description = "Wie werden wir in unserer heutigen Gesellschaft glücklich und zufrieden?"
 +++
-Reportage von Luis Flury und Sophie Messerli
+*Reportage von Luis Flury und Sophie Messerli*
 
 {{<lead>}}
 
