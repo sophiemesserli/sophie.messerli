@@ -4,7 +4,7 @@ date = "2023-04-27"
 draft = false
 pinned = false
 image = "blume2.jpg"
-description = ""
+description = "Wie werden wir in unserer heutigen Gesellschaft glücklich und zufrieden?"
 +++
 Reportage von Luis Flury und Sophie Messerli
 
