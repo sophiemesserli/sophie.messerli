@@ -18,7 +18,7 @@ description = "Wie werden wir in unserer heutigen Gesellschaft glücklich und zu
 
 In einem Interviewgespräch mit Dr. Reto Odermatt, Lehrbeauftragter der Wirtschaftswissenschaftlichen Fakultät WWZ, fanden wir Antworten auf diese Frage. Er erklärte uns, dass die üblichste Variante, um Glück zu messen sei, die Menschen zu fragen: «Auf einer Skala von sehr unzufrieden bis sehr zufrieden, wie zufrieden insgesamt sind Sie mit Ihrem Leben?» Man überliesse die Frage den Menschen selbst, indem sie sich selbst einschätzen. Dabei sei aber die Validität ein wichtiger Aspekt. Wie verlässlich sind die Selbsteinschätzungen der Menschen? Diese «Messfehler» würden aber umgangen werden können, indem man weitere Aspekte dazu nimmt, wie zum Beispiel, ob die Menschen mehr oder weniger lachen, ob sie objektiv gemessen gesund sind oder ob sie einen tiefen Stresspegel haben. So könne ein Abgleich gemacht werden, ob die Aussagen aussagekräftig sind, erklärt Odermatt. 
 
-![](reto.jpg "Reto Odermatt, von wwz.unibas.ch")
+![Reto Odermatt, von wwz.unibas.ch](reto.jpg "Reto Odermatt, von wwz.unibas.ch")
 
 ## Glück braucht Gefühle
 
@@ -50,7 +50,7 @@ Auch die Zufriedenheit am Arbeitsplatz nehme einen grossen Einfluss auf unsere Z
 
 Von der Geschäftsleitung einer Stiftung zum Busfahrer, welcher täglich Berner von A bis Z führt, ob zur Arbeit oder zur Schule, genau diesen Weg beschritt Ueli Käser. Ein Familienvater, dem seine Zeit mit der Familie und die Zufriedenheit am Arbeitsplatz wichtiger waren als sein Lohn. In einem Restaurant mitten in der Stadt Bern verriet er uns, dass die Verantwortung als Geschäftsleitung sehr gross war und dass es ihm schwergefallen ist, abends von der Arbeit abzuschalten. Dieses Problem belastete ihn oft und er könne heute in seinem neuen Beruf viel besser damit umgehen, was einen positiven Einfluss auf seine Zufriedenheit hat.
 
-![](70cfeca2-6034-4fc8-ae65-788855d57278-2.jpg)
+![Ueli Käser, Busfahrer Bernmobil](70cfeca2-6034-4fc8-ae65-788855d57278-2.jpg "Ueli Käser, Busfahrer Bernmobil")
 
 ## Warum es nie genug sein wird
 
