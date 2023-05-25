@@ -45,7 +45,7 @@ Uns seien nicht immer alle Informationen präsent, ob Gefühle, Ängste, Aufgabe
 
  In Assuan, einer Stadt am Nil in Ägypten, wurden mir diese Tatsachen verdeutlich. In dieser Stadt hat es laut Wikipedia 1,87 Millionen Einwohner, die alle eng aneinander leben. Es gibt die Reichen, die Sorte Menschen, denen die Hotels gehören, grosse Passagier Schiffe besitzen oder Geschäftsführer eines anderweitigen Geschäftes oder Unternehmens sind. Diese Leute findet man kaum auf den Strassen, sie sitzen in ihren klimatisierten Häusern mit Strom und fliessendem Wasser. Diesen Leuten geht es aus finanzieller Sicht gut. Auf der anderen Seite jedoch, gibt es Kinder, Eltern und Grosseltern, welche diese Privilegien nicht besitzen. Sie kämpfen Tag für Tag um ihr Essen, ihr Trinken, ihren Schlafplatz und schlussendlich um ihr Überleben. Alle müssen mithelfen, ob klein, jung, alt, gross, dick oder dünn, jeder Liiere zählt. Die Menschen wirken erschöpft, sie sind müde und kraftlos, dass einzige was ihnen hilft, ist ihr Glaube, ihre Familien und ihre Freunde, die sich alle gegenseitig unterstützen, wo sie können. Diese Menschen zeigen mir erneut, wie dieser finanzielle Unterschied das glücklich Sein erschweren kann. Auf mich wirken diese Leute trotz allem keineswegs undankbar, im Gegenteil. Die ärmeren Leute in Assuan freuen sich über weitaus kleinere Dinge als wir es tun, Wertschätzung sei für sie sehr wichtig, verriet uns ein Händler auf der Strasse, und bekanntlich ist mit Wertschätzung auch Dankbarkeit verknüpft. 
 
-![](a5446b0e-fa1e-4c6a-a000-d01c83e9d20a.jpeg)
+![Markt in Aswan (Ägypten), fotografiert von Daniel Messerli](a5446b0e-fa1e-4c6a-a000-d01c83e9d20a.jpeg "Markt in Aswan (Ägypten), fotografiert von Daniel Messerli")
 
 ## Zufriedenheit am Arbeitsplatz
 
