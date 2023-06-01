@@ -4,7 +4,7 @@ draft = false
 image = "bildschirmfoto_2023-06-01_um_17.52.16-removebg-preview.png"
 description = ""
 +++
-![]()
+![](bildschirmfoto_2023-06-01_um_17.52.16-removebg-preview.png)
 
 ## Sophie Messerli
 
