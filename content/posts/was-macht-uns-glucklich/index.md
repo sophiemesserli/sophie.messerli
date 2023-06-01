@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = []
 image = "blume2.jpg"
-description = "Wie werden wir in unserer heutigen Gesellschaft glücklich und zufrieden?"
+description = "#Deutsch #Reportage\nWie werden wir in unserer heutigen Gesellschaft glücklich und zufrieden?"
 footnotes = "*Autoren: Luis Lury & Sophie Messerli*"
 +++
 *Reportage von Luis Flury und Sophie Messerli*
