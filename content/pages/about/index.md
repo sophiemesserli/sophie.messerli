@@ -8,8 +8,8 @@ description = ""
 
 ## Sophie Messerli
 
-Schülerin des Gymnasium Kirchenfeld; sophie.messerli@mygymer.ch
-
-M 077 470 83 80
+Schülerin des Gymnasium Kirchenfeld Bern
 
 sophie@messerli.info
+
+M 077 470 83 80
