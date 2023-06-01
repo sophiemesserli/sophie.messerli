@@ -44,7 +44,7 @@ Uns seien nicht immer alle Informationen präsent, ob Gefühle, Ängste, Aufgabe
 
  In Assuan, einer Stadt am Nil in Ägypten, wurden mir diese Tatsachen verdeutlich. In dieser Stadt hat es laut Wikipedia 1,87 Millionen Einwohner, die alle eng aneinander leben. Es gibt die Reichen, die Sorte Menschen, denen die Hotels gehören, grosse Passagier Schiffe besitzen oder Geschäftsführer eines anderweitigen Geschäftes oder Unternehmens sind. Diese Leute findet man kaum auf den Strassen, sie sitzen in ihren klimatisierten Häusern mit Strom und fliessendem Wasser. Diesen Leuten geht es aus finanzieller Sicht gut. Auf der anderen Seite jedoch, gibt es Kinder, Eltern und Grosseltern, welche diese Privilegien nicht besitzen. Sie kämpfen Tag für Tag um ihr Essen, ihr Trinken, ihren Schlafplatz und schlussendlich um ihr Überleben. Alle müssen mithelfen, ob klein, jung, alt, gross, dick oder dünn, jeder Liiere zählt. Die Menschen wirken erschöpft, sie sind müde und kraftlos, dass einzige was ihnen hilft, ist ihr Glaube, ihre Familien und ihre Freunde, die sich alle gegenseitig unterstützen, wo sie können. Diese Menschen zeigen mir erneut, wie dieser finanzielle Unterschied das glücklich Sein erschweren kann. Auf mich wirken diese Leute trotz allem keineswegs undankbar, im Gegenteil. Die ärmeren Leute in Assuan freuen sich über weitaus kleinere Dinge als wir es tun, Wertschätzung sei für sie sehr wichtig, verriet uns ein Händler auf der Strasse, und bekanntlich ist mit Wertschätzung auch Dankbarkeit verknüpft. 
 
-![Markt in Aswan (Ägypten), fotografiert von Daniel Messerli](a5446b0e-fa1e-4c6a-a000-d01c83e9d20a.jpeg "Markt in Aswan (Ägypten), fotografiert von Daniel Messerli")
+![Markt in Aswan (Ägypten), fotografiert von Daniel Messerli, April 2023](asuan.jpg "Markt in Aswan (Ägypten), fotografiert von Daniel Messerli, April 2023")
 
 ## Zufriedenheit am Arbeitsplatz
 
@@ -54,7 +54,7 @@ Auch die Zufriedenheit am Arbeitsplatz nehme einen grossen Einfluss auf unsere Z
 
 Von der Geschäftsleitung einer Stiftung zum Busfahrer, welcher täglich Berner von A bis Z führt, ob zur Arbeit oder zur Schule, genau diesen Weg beschritt Ueli Käser. Ein Familienvater, dem seine Zeit mit der Familie und die Zufriedenheit am Arbeitsplatz wichtiger waren als sein Lohn. In einem Restaurant mitten in der Stadt Bern verriet er uns, dass die Verantwortung als Geschäftsleitung sehr gross war und dass es ihm schwergefallen ist, abends von der Arbeit abzuschalten. Dieses Problem belastete ihn oft und er könne heute in seinem neuen Beruf viel besser damit umgehen, was einen positiven Einfluss auf seine Zufriedenheit hat.
 
-![Ueli Käser, Busfahrer Bernmobil](70cfeca2-6034-4fc8-ae65-788855d57278-2.jpg "Ueli Käser, Busfahrer Bernmobil")
+![Ueli Käser, Busfahrer Bernmobil, intranet.bernmobil.ch](ueli.jpg "Ueli Käser, Busfahrer Bernmobil, intranet.bernmobil.ch")
 
 ## Warum es nie genug sein wird
 
