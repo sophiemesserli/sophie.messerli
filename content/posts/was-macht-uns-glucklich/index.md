@@ -3,9 +3,9 @@ title = "Was macht uns glücklich?"
 date = "2023-04-27"
 draft = false
 pinned = false
-tags = []
+tags = ["Deutsch", "Reportage"]
 image = "blume2.jpg"
-description = "#Deutsch #Reportage\nWie werden wir in unserer heutigen Gesellschaft glücklich und zufrieden?"
+description = "Wie werden wir in unserer heutigen Gesellschaft glücklich und zufrieden?"
 footnotes = "*Autoren: Luis Lury & Sophie Messerli*"
 +++
 *Reportage von Luis Flury und Sophie Messerli*
